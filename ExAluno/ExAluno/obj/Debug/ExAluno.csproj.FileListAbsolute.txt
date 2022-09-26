@@ -1,0 +1,8 @@
+C:\Users\cristiano.silva\source\repos\ExAluno\ExAluno\obj\Debug\ExAluno.csproj.AssemblyReference.cache
+C:\Users\cristiano.silva\source\repos\ExAluno\ExAluno\obj\Debug\ExAluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\cristiano.silva\source\repos\ExAluno\ExAluno\obj\Debug\ExAluno.csproj.CoreCompileInputs.cache
+C:\Users\cristiano.silva\source\repos\ExAluno\ExAluno\bin\Debug\ExAluno.exe.config
+C:\Users\cristiano.silva\source\repos\ExAluno\ExAluno\bin\Debug\ExAluno.exe
+C:\Users\cristiano.silva\source\repos\ExAluno\ExAluno\bin\Debug\ExAluno.pdb
+C:\Users\cristiano.silva\source\repos\ExAluno\ExAluno\obj\Debug\ExAluno.exe
+C:\Users\cristiano.silva\source\repos\ExAluno\ExAluno\obj\Debug\ExAluno.pdb
